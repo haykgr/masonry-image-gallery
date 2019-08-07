@@ -1,0 +1,10 @@
+.masonry-container {
+    list-style-type: none;
+}
+.masonry-wrapper {
+    position: relative
+}
+.masonry-brick {
+    position: absolute;
+    transition: all 0.8s;
+}
